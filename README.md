@@ -1,6 +1,6 @@
 ## Daniel Miller
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/marcus-gardiner-a7131a56/) | [Blog](https://medium.com/@marcusfgardiner)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Blog](https://medium.com/@PleatherStarfish)
 
 I'm a junior developer with a passion for interactive media and design. I came to software by way of experimental art. As a digital sound artist, I spent year working with contemporary music ensembles on four continents and developing software to generate electronic music from algorithms and data sets. Eventually software came to dominate my creative practice, and in 2018 I transitioned to a career as a full-stack developer through an 18-week batch at Recurse Center, a self-directed educational retreat for professional and pre-professional developers in New York City. I love building tools that meet specific needs through elegant and intuitive design, and I work on passion project related to 2D and 3D graphics, animation, and data visualization.
 
@@ -24,8 +24,13 @@ Project | Description | Deployment | Technologies
 
 ## Education
 
-### Dartmouth College — September 2015 - June 2017
+### Dartmouth College
+September 2015 - June 2017
 **Master of Arts, Digital Musics**
 Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”	Hanover, NH
 * Implemented three music-visualization apps in Processing and Max/MSP using Open Sound Control to manage live animations based on data from pitch-tracking algorithms
 * Defended a book-length research thesis detailing technical and design considerations for sensor-augmented live interactive computer animations
+
+## Blog
+
+#### [Coding Blog](https://medium.com/@PleatherStarfish) published by Hacker Noon
