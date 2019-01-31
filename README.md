@@ -10,7 +10,7 @@ To view my most recent work, see my [GitHub](https://github.com/bronzebygold)
 
 Project | Description | Deployment | Technologies
 --- | --- | --- | ---
-[Faceter](https://github.com/bronzebygold/Faceter) | A tool for generating precedural textures and topologies with iterative or recursive fractal and coherent noise, similar to the Diamond-square Algorithm | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/bronzebygold/faceter | ES6, Three.js
+[Faceter](https://github.com/bronzebygold/Faceter) | A tool for generating precedural textures and topologies with iterative or recursive fractal and coherent noise, similar to the Diamond-square Algorithm | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/bronzebygold/faceter) | ES6, Three.js
 [Pretty Mes](https://github.com/bronzebygold/pretty_mes) | An app to generate procedural poems and generative typographies from current news headlines in the style of American experimental artist John Cage  | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://prettymes.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/bronzebygold/pretty_mes) | Python 3, Flask, Jinja2, ES6, News API, Heroku
 
 
