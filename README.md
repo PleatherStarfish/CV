@@ -34,7 +34,7 @@ Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”	Hanover, NH
 ## Experience
 
 ### Recurse Center
-June 2018 - November 2018	(New York, NY)<br>
+June 2018 - November 2018	<div style="text-align: right">(New York, NY)</div><br>
 * Developed web applications and tools focused on generative 2D and 3D graphics and data visualisations
 * Documented my work in a series of presentations for Recurse Center participants and faculty and in technical blog posts and tutorials on Medium.com
 ### The Fulbright Program
