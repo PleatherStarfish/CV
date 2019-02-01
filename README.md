@@ -11,7 +11,8 @@ To view my most recent work, see my [GitHub](https://github.com/bronzebygold)
 Project | Description | Deployment | Technologies
 --- | --- | --- | ---
 [Faceter](https://github.com/bronzebygold/Faceter) | A tool for generating precedural textures and topologies with iterative or recursive fractal and coherent noise, similar to the Diamond-square Algorithm | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/bronzebygold/faceter) | ES6, Three.js
-[Pretty Mes](https://github.com/bronzebygold/pretty_mes) | An app to generate procedural poems and generative typographies from current news headlines [in the style](https://goo.gl/images/K6o4DX) of American experimental artist John Cage  | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://prettymes.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/bronzebygold/pretty_mes) | Python 3, Flask, Jinja2, ES6, News API, Heroku
+[Pretty Mes](https://github.com/PleatherStarfish/pretty_mes) | An app to generate procedural poems and generative typographies from current news headlines [in the style](https://goo.gl/images/K6o4DX) of American experimental artist John Cage  | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://prettymes.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/pretty_mes) | Python 3, Flask, Jinja2, ES6, News API, Heroku
+[Trump Town Constellation](https://github.com/PleatherStarfish/trumptown_constellation) | A D3.js data visualisation of ProPublica’s [Trump Town dataset](https://projects.propublica.org/trump-town), unpacking granular data on the career histories of 2,816 Trump Administration political appointees | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/trumptown_constellation) | D3.js, ES6, Python 3, Numpy
 
 
 ## Skills
@@ -34,7 +35,7 @@ Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”	Hanover, NH
 ## Experience
 
 ### Recurse Center
-June 2018 - November 2018	<div style="text-align: right">(New York, NY)</div><br>
+June 2018 - November 2018	(New York, NY)<br>
 * Developed web applications and tools focused on generative 2D and 3D graphics and data visualisations
 * Documented my work in a series of presentations for Recurse Center participants and faculty and in technical blog posts and tutorials on Medium.com
 ### The Fulbright Program
