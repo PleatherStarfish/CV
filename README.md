@@ -34,23 +34,23 @@ Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”	Hanover, NH
 ## Experience
 
 ### Recurse Center
-June 2018 - November 2018	(New York, NY)
+June 2018 - November 2018	(New York, NY)<br>
 * Developed web applications and tools focused on generative 2D and 3D graphics and data visualisations
 * Documented my work in a series of presentations for Recurse Center participants and faculty and in technical blog posts and tutorials on Medium.com
 ### The Fulbright Program
-August 2017 - May 2018
-Fulbright-Nehru Research Fellow	(Bangalore, India)
+August 2017 - May 2018<br>
+Fulbright-Nehru Research Fellow	(Bangalore, India)<br>
 * Developed open-source software, in collaboration with South Indian classical musicians, for representing non-Eurocentric musical structures through a responsive graphic interface
 * Created an interactive audio-video installation for the Bangalore Maker Faire using computer-vision in Processing and OpenCV-Python to control audio synthesis through persistent tracking of physical tokens
 * Worked with artists and community stakeholders to organize lectures, workshops, and concerts
 ### Foundry Academy
-August 2014 - September 2015
-Director of New Media Art Curriculum (Los Angeles, CA)
+August 2014 - September 2015<br>
+Director of New Media Art Curriculum (Los Angeles, CA)<br>
 * Developed and taught a technology curriculum to approx. 150 children in grades 4-8 every semester
 * Taught workshops on Python programming, photo and video processing, wearable tech, etc.
 ### Watson Fellowship
-August 2013 - August 2014
-Watson Fellow	(International)
+August 2013 - August 2014<br>
+Watson Fellow	(International)<br>
 * Documented the work of media artists and community arts collectives on three continents
 * Leveraged a wide knowledge of digital and analog technology to collect quantitative and qualitative data on social and environmental factors influencing local artists and sound designers
 
