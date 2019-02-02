@@ -36,7 +36,7 @@ Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”<br>
 
 ### Lawrence University
 **Bachelor of Music, Music Theory/Composition,** <i>**cum laude**</i><br>
-Minor: Philosophy
+Minor: Philosophy<br>
 September 2008 - June 2013 (Appleton, WI)
 
 ## Experience
