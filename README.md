@@ -1,6 +1,6 @@
 ## Daniel Miller
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Blog](https://medium.com/@PleatherStarfish)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Website](https://www.danielmillerportfolio.com) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Blog](https://medium.com/@PleatherStarfish)
 
 I'm a junior developer with a passion for interactive media and design. I came to software by way of experimental art. As a digital sound artist, I spent year working with contemporary music ensembles on four continents and developing software to generate electronic music from algorithms and data sets. Eventually software came to dominate my creative practice, and in 2018 I transitioned to a career as a full-stack developer through an 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City.
 
