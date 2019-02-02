@@ -34,10 +34,14 @@ Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”<br>
 * Implemented three music-visualization apps in Processing and Max/MSP using Open Sound Control to manage live animations based on data from pitch-tracking algorithms
 * Defended a book-length research thesis detailing technical and design considerations for sensor-augmented live interactive computer animations
 
+### Lawrence University
+#### Bachelor of Music, Music Theory/Composition, <i>cum laude</i><br>
+September 2008 - June 2013 (Appleton, WI)
+
 ## Experience
 
 ### Recurse Center
-#### June 2018 - November 2018	(New York, NY)<br>
+June 2018 - November 2018	(New York, NY)<br>
 * Developed web applications and tools focused on generative 2D and 3D graphics and data visualisations
 * Documented my work in a series of presentations for Recurse Center participants and faculty and in technical blog posts and tutorials on Medium.com
 ### The Fulbright Program
