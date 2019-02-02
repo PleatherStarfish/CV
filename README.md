@@ -35,8 +35,7 @@ Thesis: “Are Scores Maps? A Wayfinding Approach to Composition”<br>
 * Defended a book-length research thesis detailing technical and design considerations for sensor-augmented live interactive computer animations
 
 ### Lawrence University
-**Bachelor of Music, Music Theory/Composition,** <i>**cum laude**</i><br>
-Minor: Philosophy<br>
+**Bachelor of Music, Music Theory/Composition,** <i>**cum laude**</i> (Minor: Philosophy)<br>
 September 2008 - June 2013 (Appleton, WI)
 
 ## Experience
