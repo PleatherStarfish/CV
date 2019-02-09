@@ -15,7 +15,7 @@ Project | Description | Deployment | Technologies
 [Faceter](https://github.com/bronzebygold/Faceter) | A tool for generating precedural textures and topologies with iterative or recursive fractals and coherent noise, similar to the [Diamond-square Algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm) | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/bronzebygold/faceter) | ES6, Three.js
 [Pretty Mes](https://github.com/PleatherStarfish/pretty_mes) | An app to generate [mesostics](https://en.wikipedia.org/wiki/Mesostic) (a type of procedural poem) and generative typographies from current news headlines [in the style](https://goo.gl/images/K6o4DX) of American experimental artist John Cage  | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://prettymes.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/pretty_mes) | Python 3, Flask, Jinja2, JavaScript (ES6), News API, Heroku
 [Trump Town Constellation](https://github.com/PleatherStarfish/trumptown_constellation) | A D3.js data visualisation of ProPublica’s [Trump Town dataset](https://projects.propublica.org/trump-town), unpacking granular data on the career histories of 2,816 Trump Administration political appointees | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/trumptown_constellation) | D3.js, ES6, Python 3, Numpy
-[8BmySVG](https://github.com/PleatherStarfish/8BmySVG) | A tool to render SVGs as 8-bit style graphics in a (P5.js)[https://p5js.org/] canvas. Also has functionality for "tweening" between images. | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/8BmySVG) | JavaScript (ES6), P5.js, SVGs
+[8BmySVG](https://github.com/PleatherStarfish/8BmySVG) | A tool to render SVGs as 8-bit style graphics in a [P5.js](https://p5js.org/) canvas. Also has functionality for "tweening" between images. | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/8BmySVG) | JavaScript (ES6), P5.js, SVGs
 
 
 ## Skills
@@ -31,7 +31,7 @@ Project | Description | Deployment | Technologies
 ### Dartmouth College
 **Master of Arts, Digital Musics**<br>
 September 2015 - June 2017 (Hanover, NH)<br>
-Thesis: ()“Are Scores Maps? A Wayfinding Approach to Composition”)[http://www.lontanomusic.com/writing/miller_thesis.pdf]<br>
+Thesis: [“Are Scores Maps? A Wayfinding Approach to Composition”](http://www.lontanomusic.com/writing/miller_thesis.pdf)<br>
 * Implemented three music-visualization apps in Processing and Max/MSP using Open Sound Control to manage live animations based on data from pitch-tracking algorithms
 * Defended a book-length research thesis detailing technical and design considerations for sensor-augmented live interactive computer animations
 
