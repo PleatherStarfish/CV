@@ -19,7 +19,7 @@ Project | Description | Deployment | Technologies
 
 ## Skills
 
-* **Core Technologies:** ES6, React.js, Python 3, Flask, CSS, HTML
+* **Core Technologies:** JavaScript (ES6), React.js, Python 3, Flask, CSS, HTML
 * **Frameworks and Tools:** D3.js, P5.js, Three.js, SASS, Numpy, Pandas
 * **Deployment:** Heroku
 * **Version Control / Testing:** Git, Github, Jest
@@ -63,4 +63,4 @@ August 2013 - August 2014<br>
 
 ## Blog
 
-#### [Coding Blog](https://medium.com/@PleatherStarfish) published by Hacker Noon
+#### [Coding Blog](https://medium.com/@PleatherStarfish) published by freeCodeCamp and Hacker Noon
