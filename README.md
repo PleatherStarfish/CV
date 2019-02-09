@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Website](http://danielmillerportfolio.com/) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Coding Blog](https://medium.com/@PleatherStarfish)
 
-I'm a junior developer with a passion for interactive media and design. I came to software by way of experimental art. As a digital sound artist, I spent year working with contemporary music ensembles on four continents and developing software to generate electronic music from algorithms and data sets. Eventually software came to dominate my creative practice, and in 2018 I transitioned to a career as a full-stack developer through an 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City.
+I'm a web developer with a passion for interactive media and design. I came to software by way of experimental art. As a digital sound artist, I spent year working with contemporary music ensembles on four continents and developing software to generate electronic music from algorithms and data sets. Eventually software came to dominate my creative practice, and in 2018 I transitioned to a career as a full-stack developer through an 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City.
 
 I love building tools that meet specific user needs through elegant and intuitive design, and I work on passion projects related to 2D and 3D graphics, animation, and data visualization.
 
