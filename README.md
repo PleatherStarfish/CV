@@ -30,7 +30,7 @@ Project | Description | Deployment | Technologies
 
 ## Education
 
-### Dartmouth College
+### ![135px-Dartmouth_College_shield svg](https://user-images.githubusercontent.com/10040486/55199496-96e15100-5190-11e9-8008-a5e413e85e86.png) Dartmouth College
 **Master of Arts, Digital Musics**<br>
 September 2015 - June 2017 (Hanover, NH)<br>
 Thesis: [“Are Scores Maps? A Wayfinding Approach to Composition”](http://www.lontanomusic.com/writing/miller_thesis.pdf)<br>
