@@ -27,7 +27,7 @@ Project | Description | Deployment | Technologies
 * **Deployment:** Heroku
 * **Version Control / Testing:** Git, Github, Jest
 * **Other:** Processing, Max/MSP, Sketch, Adobe Illustrator, SVGs
-* **Activities and Interests:** blogging about coding, philosophy and formal logic, running and fitness
+* **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, philosophy and formal logic, running and fitness
 
 ## Education
 
