@@ -22,11 +22,11 @@ Project | Description | Deployment | Technologies
 
 ## Skills
 
-* **Core Technologies:** JavaScript (ES6), React.js, Python 3, Flask, CSS3, HTML5
-* **Frameworks and Tools:** D3.js, jQuery, P5.js, Three.js, SASS/SCSS, NumPy, Pandas
+* **Core Technologies:** JavaScript (ES6), React.js, Node.js, PostgreSQL, Python 3, Flask, CSS3, HTML5
+* **Frameworks and Tools:** D3.js, jQuery, Express, P5.js, Three.js, SASS/SCSS, NumPy
 * **Deployment:** Heroku
 * **Version Control / Testing:** Git, Github, Jest
-* **Other:** Processing, Max/MSP, Sketch, Adobe Illustrator, SVGs
+* **Other:** Processing, Twitter API, Max/MSP, Sketch, Adobe Illustrator, SVGs
 * **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, philosophy and formal logic, running and fitness
 
 ## Education
