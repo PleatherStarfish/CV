@@ -23,8 +23,8 @@ Project | Description | Deployment | Technologies
 
 ## Skills
 
-* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3, Flask, CSS3, HTML5
-* **Frameworks and Tools:** D3.js, jQuery, Express, P5.js, Three.js, SASS/SCSS, NumPy
+* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[NumPy, Flask\], CSS3, HTML5
+* **Frameworks and Tools:** D3.js, jQuery, Express, SASS/SCSS, P5.js, Three.js
 * **Databases:** PostgreSQL, MySQL, PopSQL
 * **Deployment:** Heroku
 * **Version Control / Testing:** Git, Github, Jest
