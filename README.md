@@ -27,7 +27,7 @@ Project | Description | Deployment | Technologies
 * **Frameworks and Tools:** D3.js, jQuery, Express, Handlebars.js, SASS/SCSS, P5.js, Three.js
 * **Databases:** PostgreSQL, MongoDB, PopSQL
 * **Deployment:** Heroku
-* **Version Control / Testing:** Git, Github, Jest
+* **Version Control / Testing:** Git, Github, Jest, Mocha, Chai
 * **Other:** Processing, Twitter API, Max/MSP, Sketch, Adobe Illustrator, SVGs
 * **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, philosophy and formal logic, running and fitness
 
