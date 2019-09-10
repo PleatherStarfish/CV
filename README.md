@@ -54,6 +54,10 @@ September 2008 - June 2013 (Appleton, WI)
 **John Jay College (CUNY)**<br>
 July 2019 - present (New York, NY)<br>
 As a full-stack developer with the Student Academic Support Center (SASP) of the City University of New York's John Jay College, I help improve student outcomes and college retention by providing software solutions that help reveal the signal within the noise. My recent work has focused on parsing data collected from 2100+ incoming students with Python/Pandas, designing and building a database in Microsoft SQL Server, adding features to existing PHP/Laravel web applications used by faculty and peer mentors to gather data on incoming and transfer students, and building new tools for internal college use in React, Node, and Express.
+### Freelancer
+**January 2019 - present**<br>
+* Developed passion projects with React.js, Node.js, Express, and PostgreSQL and freelanced, in collaboration with with Grubhub UX/UI designer Aaron Cecchini-Butler, on mobile-first responsive front ends
+* Worked with New York City startup focused on UI engineering for biomedical companies
 ### Recurse Center
 June 2018 - November 2018	(New York, NY)<br>
 * Developed web applications and tools focused on generative 2D and 3D graphics and data visualisations
