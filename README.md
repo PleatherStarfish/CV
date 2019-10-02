@@ -81,4 +81,4 @@ August 2013 - August 2014<br>
 
 ## Blog
 
-#### [Coding Blog](https://medium.com/@PleatherStarfish) published by Hacker Noon and freeCodeCamp (over 13,000 views)
+#### [Coding Blog](https://medium.com/@PleatherStarfish) published by Hacker Noon and freeCodeCamp (over 16,000 views)
