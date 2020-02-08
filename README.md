@@ -1,6 +1,6 @@
 ## Daniel Miller
 
-[Resume](http://www.danielmillerportfolio.com/pdfs/miller_resume.pdf) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Website](http://danielmillerportfolio.com/) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Coding Blog](https://medium.com/@PleatherStarfish)
+[Resume](http://www.danielmillerportfolio.com/pdfs/miller_resume.pdf) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Website](http://danielmillerportfolio.com/) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Coding Blog](https://medium.com/@PleatherStarfish)
 
 I'm a web developer at New York University's Courant Institute of Mathematical Sciences. I came to software by way of fine arts, and I still have a passion for interactive media and design.  As a digital sound artist, I spent years working with top contemporary music ensembles and open-source tech communities on four continents and developing software to generate interactive sound installations and performance art. Eventually software came to dominate my creative practice, and in 2018 I transition to working in software development full time through a 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City.
 
@@ -23,30 +23,13 @@ Project | Description | Deployment | Technologies
 
 ## Skills
 
-* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[NumPy, Flask\], CSS3, HTML5
-* **Frameworks and Tools:** D3.js, jQuery, Express, Handlebars.js, SASS/SCSS, P5.js, Three.js
-* **Databases:** PostgreSQL, MongoDB, PopSQL
-* **Deployment:** Heroku
+* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[Django, Flask, NumPy, Pandas\], CSS3, HTML5
+* **Frameworks and Tools:** D3.js, jQuery, Express, Jinja2, SASS/SCSS, Webpack, Bootstrap, styled-components, P5.js, Three.js
+* **Databases:** MariaDB and PostgreSQL
+* **Deployment:** Heroku, Apache
 * **Version Control / Testing:** Git, Github, Jest, Mocha, Chai
 * **Other:** Processing, Twitter API, Max/MSP, Sketch, Adobe Illustrator, SVGs
-* **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, philosophy and formal logic, running and fitness
-
-## Education
-
-### Dartmouth College
-**Master of Arts, Digital Musics**<br>
-September 2015 - June 2017 (Hanover, NH)<br>
-Thesis: [“Are Scores Maps? A Wayfinding Approach to Composition”](http://www.lontanomusic.com/writing/miller_thesis.pdf)<br>
-* Implemented three music-visualization apps in Processing and Max/MSP using Open Sound Control to manage live animations based on data from pitch-tracking algorithms
-* Defended a book-length research thesis detailing technical and design considerations for sensor-augmented live interactive computer animations
-
-### Conservatorium van Amsterdam
-**Study Abroad**
-August 2011 - June 2012 (The Netherlands)
-
-### Lawrence University
-**Bachelor of Music, Music Theory/Composition,** <i>**cum laude**</i> (Minor: Philosophy)<br>
-September 2008 - June 2013 (Appleton, WI)
+* **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, web accessability, running and fitness
 
 ## Experience
 
@@ -78,6 +61,23 @@ August 2014 - September 2015<br>
 August 2013 - August 2014<br>
 * Documented the work of media artists and community arts collectives on three continents
 * Leveraged a wide knowledge of digital and analog technology to collect quantitative and qualitative data on social and environmental factors influencing local artists and sound designers
+
+## Education
+
+### Dartmouth College
+**Master of Arts, Digital Musics**<br>
+September 2015 - June 2017 (Hanover, NH)<br>
+Thesis: [“Are Scores Maps? A Wayfinding Approach to Composition”](http://www.lontanomusic.com/writing/miller_thesis.pdf)<br>
+* Implemented three music-visualization apps in Processing and Max/MSP using Open Sound Control to manage live animations based on data from pitch-tracking algorithms
+* Defended a book-length research thesis detailing technical and design considerations for sensor-augmented live interactive computer animations
+
+### Conservatorium van Amsterdam
+**Study Abroad**
+August 2011 - June 2012 (The Netherlands)
+
+### Lawrence University
+**Bachelor of Music, Music Theory/Composition,** <i>**cum laude**</i> (Minor: Philosophy)<br>
+September 2008 - June 2013 (Appleton, WI)
 
 ## Blog
 
