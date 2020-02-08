@@ -6,37 +6,16 @@ I'm a web developer at New York University's Courant Institute of Mathematical S
 
 I'm experienced in building RESTful APIs with Node / Express, Python / Flask, PostgreSQL, and MongoDB on the backend, and I love building dynamic frontend interfaces with React, D3, JavaScript, and SASS / SCSS.
 
-## Projects
-
-To view my most recent work, see my [GitHub](https://github.com/PleatherStarfish)
-
-Project | Description | Deployment | Technologies
---- | --- | --- | ---
-[Eyes Above](https://chrome.google.com/webstore/detail/eyes-above/goeipoopgdbebjoikkjihfjahogjbnda) | A Chrome browser extension visualizing data about artificial satellites in a radius above the user. Built in React with audio sonification in Tone.js. | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/eyes_above) [![chrome](https://user-images.githubusercontent.com/10040486/57812699-d31a4200-773b-11e9-99f6-88217dbb69a2.png)](https://chrome.google.com/webstore/detail/eyes-above/goeipoopgdbebjoikkjihfjahogjbnda) | React.js, Tone.js, CSS, HTML
-[@Sunlight_Bot](https://github.com/PleatherStarfish/sunlight_bot) | A Twitter bot that tweets public financial disclosure data on Trump administration appointees. | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://twitter.com/Sunlight_Bot) | Node.js, PostgreSQL, Twitter API
-[Faceter](https://github.com/PleatherStarfish/Faceter) | A tool for generating procedural textures and topologies with iterative or recursive fractals and coherent noise, similar to the [Diamond-square Algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm) | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/faceter) | JavaScript (ES6), Three.js
-[Pretty Mes](https://github.com/PleatherStarfish/pretty_mes) | An app to generate [mesostics](https://en.wikipedia.org/wiki/Mesostic) (a type of procedural poem) and generative typographies from current news headlines [in the style](https://goo.gl/images/K6o4DX) of American experimental artist John Cage  | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://prettymes.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/pretty_mes) | Python 3, Flask, Jinja2, JavaScript (ES6), News API, Heroku
-[Pretty Printing Trump Town](https://prettyprintingtrumptown.glitch.me/) | A D3.js data visualisation of ProPublica’s [Trump Town dataset](https://projects.propublica.org/trump-town), unpacking granular data on the career histories of 2,816 Trump Administration political appointees | <br>[![Glitch](https://user-images.githubusercontent.com/10040486/52808965-2c030d00-305d-11e9-90ae-e16c7ff5ac6a.png)](https://prettyprintingtrumptown.glitch.me/) <br> [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/trumptown_constellation) | ES6, D3.js, jQuery, Python 3, NumPy
-[Seabird Coffee and Co.](https://pleatherstarfish.github.io/seabird_coffee/) | (In progress pending launch.) A static e-comerce website for Cohasset, MA-based coffee company, built in collaboration with Boston-based UI/UX designer [Aaron Cecchini-Butler](https://www.linkedin.com/in/aaron-cecchini-butler/). | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://pleatherstarfish.github.io/seabird_coffee/) | HTML5, SASS/SCSS, JavaScript (ES6), jQuery, [animate-css-grid](https://www.npmjs.com/package/animate-css-grid)
-<!--[Twill](https://github.com/PleatherStarfish/TwillSynth) | A patchable modular-synthesizer emulator and GUI for the browser using Tone.js for audio synthesis. | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/TwillSynth) | CSS3, Javascript (ES6), Interact.js, Tone.js, (React version in progress)-->
-
-
-## Skills
-
-* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[Django, Flask, NumPy, Pandas\], CSS3, HTML5
-* **Frameworks and Tools:** D3.js, jQuery, Express, Jinja2, SASS/SCSS, Webpack, Bootstrap, styled-components, P5.js, Three.js
-* **Databases:** MariaDB and PostgreSQL
-* **Deployment:** Heroku, Apache
-* **Version Control / Testing:** Git, Github, Jest, Mocha, Chai
-* **Other:** Processing, Twitter API, Max/MSP, Sketch, Adobe Illustrator, SVGs
-* **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, web accessability, running and fitness
-
 ## Experience
 
+### Web Developer
+**New York University's Courant Institute of Mathematical Sciences**<br>
+December 2019 - present (New York, NY)<br>
+I work as a full-stack web developer at the Courant Institute of Mathematical Sciences at New York University (NYU) where I maintain and build features to a stack that includes Django, Rails, React, PostgresQL, and MariaDB.
 ### Full Stack Developer
 **John Jay College (CUNY)**<br>
 July 2019 - present (New York, NY)<br>
-As a full-stack developer with the Student Academic Support Center (SASP) of the City University of New York's John Jay College, I help improve student outcomes and college retention by providing software solutions that help reveal the signal within the noise. My recent work has focused on parsing data collected from 2100+ incoming students with Python/Pandas, designing and building a database in Microsoft SQL Server, adding features to existing PHP/Laravel web applications used by faculty and peer mentors to gather data on incoming and transfer students, and building new tools for internal college use in React, Node, and Express.
+As a full-stack developer with the Student Academic Support Center (SASP) of the City University of New York's John Jay College, I helped improve student outcomes and college retention by providing software solutions that help reveal the signal within the noise. My work focused on parsing data collected from 2100+ incoming students with Python/Pandas, designing and building a database in Microsoft SQL Server, adding features to existing PHP/Laravel web applications used by faculty and peer mentors to gather data on incoming and transfer students, and building new tools for internal college use in React.
 ### Freelancer
 January 2019 - present<br>
 * Developed passion projects with React.js, Node.js, Express, and PostgreSQL and freelanced, in collaboration with with Grubhub UX/UI designer Aaron Cecchini-Butler, on mobile-first responsive front ends
@@ -61,6 +40,31 @@ August 2014 - September 2015<br>
 August 2013 - August 2014<br>
 * Documented the work of media artists and community arts collectives on three continents
 * Leveraged a wide knowledge of digital and analog technology to collect quantitative and qualitative data on social and environmental factors influencing local artists and sound designers
+
+## Projects
+
+To view my most recent work, see my [GitHub](https://github.com/PleatherStarfish)
+
+Project | Description | Deployment | Technologies
+--- | --- | --- | ---
+[Eyes Above](https://chrome.google.com/webstore/detail/eyes-above/goeipoopgdbebjoikkjihfjahogjbnda) | A Chrome browser extension visualizing data about artificial satellites in a radius above the user. Built in React with audio sonification in Tone.js. | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/eyes_above) [![chrome](https://user-images.githubusercontent.com/10040486/57812699-d31a4200-773b-11e9-99f6-88217dbb69a2.png)](https://chrome.google.com/webstore/detail/eyes-above/goeipoopgdbebjoikkjihfjahogjbnda) | React.js, Tone.js, CSS, HTML
+[@Sunlight_Bot](https://github.com/PleatherStarfish/sunlight_bot) | A Twitter bot that tweets public financial disclosure data on Trump administration appointees. | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://twitter.com/Sunlight_Bot) | Node.js, PostgreSQL, Twitter API
+[Faceter](https://github.com/PleatherStarfish/Faceter) | A tool for generating procedural textures and topologies with iterative or recursive fractals and coherent noise, similar to the [Diamond-square Algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm) | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/faceter) | JavaScript (ES6), Three.js
+[Pretty Mes](https://github.com/PleatherStarfish/pretty_mes) | An app to generate [mesostics](https://en.wikipedia.org/wiki/Mesostic) (a type of procedural poem) and generative typographies from current news headlines [in the style](https://goo.gl/images/K6o4DX) of American experimental artist John Cage  | [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://prettymes.herokuapp.com/)[![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/pretty_mes) | Python 3, Flask, Jinja2, JavaScript (ES6), News API, Heroku
+[Pretty Printing Trump Town](https://prettyprintingtrumptown.glitch.me/) | A D3.js data visualisation of ProPublica’s [Trump Town dataset](https://projects.propublica.org/trump-town), unpacking granular data on the career histories of 2,816 Trump Administration political appointees | <br>[![Glitch](https://user-images.githubusercontent.com/10040486/52808965-2c030d00-305d-11e9-90ae-e16c7ff5ac6a.png)](https://prettyprintingtrumptown.glitch.me/) <br> [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/trumptown_constellation) | ES6, D3.js, jQuery, Python 3, NumPy
+[Seabird Coffee and Co.](https://pleatherstarfish.github.io/seabird_coffee/) | (In progress pending launch.) A static e-comerce website for Cohasset, MA-based coffee company, built in collaboration with Boston-based UI/UX designer [Aaron Cecchini-Butler](https://www.linkedin.com/in/aaron-cecchini-butler/). | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://pleatherstarfish.github.io/seabird_coffee/) | HTML5, SASS/SCSS, JavaScript (ES6), jQuery, [animate-css-grid](https://www.npmjs.com/package/animate-css-grid)
+<!--[Twill](https://github.com/PleatherStarfish/TwillSynth) | A patchable modular-synthesizer emulator and GUI for the browser using Tone.js for audio synthesis. | [![GitHub](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/PleatherStarfish/TwillSynth) | CSS3, Javascript (ES6), Interact.js, Tone.js, (React version in progress)-->
+
+
+## Skills
+
+* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[Django, Flask, NumPy, Pandas\], CSS3, HTML5
+* **Frameworks and Tools:** D3.js, jQuery, Express, Jinja2, SASS/SCSS, Webpack, Bootstrap, styled-components, P5.js, Three.js
+* **Databases:** MariaDB and PostgreSQL
+* **Deployment:** Heroku, Apache
+* **Version Control / Testing:** Git, Github, Jest, Mocha, Chai
+* **Other:** Processing, Twitter API, Max/MSP, Sketch, Adobe Illustrator, SVGs
+* **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, web accessability, running and fitness
 
 ## Education
 
