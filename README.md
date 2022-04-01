@@ -4,8 +4,6 @@
 
 I'm a web developer at New York University's Courant Institute of Mathematical Sciences. I came to software by way of fine arts, and I still have a passion for interactive media and design. As a digital sound artist, I spent years working with top contemporary music ensembles and open-source tech communities on four continents and developing software to generate interactive sound installations and performance art. Eventually software came to dominate my creative practice, and in 2018 I transition to working in software development full time through a 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City. I'm currently a full-stack engineer at the Courant Institute of Mathematical Sciences at New York University.
 
-My preference is 
-
 ## Experience
 
 ### Web Developer
