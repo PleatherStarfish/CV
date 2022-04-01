@@ -57,11 +57,11 @@ Project | Description | Deployment | Technologies
 
 ## Skills
 
-* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[Django, Flask, NumPy, Pandas\], CSS3, HTML5
-* **Frameworks and Tools:** D3.js, jQuery, Express, Jinja2, SASS/SCSS, Webpack, Bootstrap, styled-components, P5.js, Three.js
-* **Databases:** MariaDB and PostgreSQL
-* **Deployment:** Heroku, Apache
-* **Version Control / Testing:** Git, Github, Jest, Mocha, Chai
+* **Core Technologies:** JavaScript (ES6) \[React.js, Node.js\], Python 3 \[Django, Pandas\], CSS3, HTML5
+* **Frameworks and Tools:** D3.js, jQuery, SASS/SCSS, Webpack, Bootstrap 4/5, P5.js, Three.js
+* **Databases:** PostgreSQL
+* **Deployment:** Heroku
+* **Version Control / Testing:** Git, Github
 * **Other:** Processing, Twitter API, Max/MSP, Sketch, Adobe Illustrator, SVGs
 * **Activities and Interests:** [blogging](https://medium.com/@PleatherStarfish) about coding, web accessability, running and fitness
 
