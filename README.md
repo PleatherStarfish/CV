@@ -2,16 +2,16 @@
 
 [Resume](https://drive.google.com/file/d/1MZHTrjhVUaO_dEZYqu7GpusKnG3oBIJW/view?usp=sharing) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Website](http://danielmillerportfolio.com/) | [LinkedIn](https://www.linkedin.com/in/danielmillerportfolio/) | [Coding Blog](https://medium.com/@PleatherStarfish)
 
-I'm a web developer at New York University's Courant Institute of Mathematical Sciences. I came to software by way of fine arts, and I still have a passion for interactive media and design.  As a digital sound artist, I spent years working with top contemporary music ensembles and open-source tech communities on four continents and developing software to generate interactive sound installations and performance art. Eventually software came to dominate my creative practice, and in 2018 I transition to working in software development full time through a 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City.
+I'm a web developer at New York University's Courant Institute of Mathematical Sciences. I came to software by way of fine arts, and I still have a passion for interactive media and design. As a digital sound artist, I spent years working with top contemporary music ensembles and open-source tech communities on four continents and developing software to generate interactive sound installations and performance art. Eventually software came to dominate my creative practice, and in 2018 I transition to working in software development full time through a 18-week batch at [Recurse Center](https://www.recurse.com/), a self-directed educational retreat for professional and pre-professional developers in New York City. I'm currently a full-stack engineer at the Courant Institute of Mathematical Sciences at New York University.
 
-I'm experienced in building RESTful APIs with Node / Express, Python / Flask, PostgreSQL, and MongoDB on the backend, and I love building dynamic frontend interfaces with React, D3, JavaScript, and SASS / SCSS.
+My preference is 
 
 ## Experience
 
 ### Web Developer
 **New York University's Courant Institute of Mathematical Sciences**<br>
 December 2019 - present (New York, NY)<br>
-I work as a full-stack web developer at the Courant Institute of Mathematical Sciences at New York University (NYU) where I maintain and build features to a stack that includes Django, Rails, React, PostgresQL, and MariaDB.
+I work as a full-stack web developer at the Courant Institute of Mathematical Sciences at New York University (NYU) where I maintain and build features to a stack that includes Django, React, and PostgresQL.
 ### Full Stack Developer
 **John Jay College (CUNY)**<br>
 July 2019 - present (New York, NY)<br>
